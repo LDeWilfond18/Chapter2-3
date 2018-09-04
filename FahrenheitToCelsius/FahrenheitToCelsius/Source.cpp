@@ -14,7 +14,7 @@ int main()
 
 	degreesC = (degreesF - 32) / 1.8;
 
-	cout << "Your temperature in Celsius is: " << degreesC;
+	cout << "Your temperature in Celsius is: " << degreesC << " ";
 	
 
 	system("pause");
