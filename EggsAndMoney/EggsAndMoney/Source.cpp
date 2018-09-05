@@ -14,7 +14,7 @@ int main()
 	double totalCost = 0.0;
 
 
-	cout << "How many eggs would you like?";
+	cout << "How many eggs would you like? ";
 	cin >> eggsOrdered;
 
 	CartonOfEggsOrdered = eggsOrdered / Dozen_Eggs;
